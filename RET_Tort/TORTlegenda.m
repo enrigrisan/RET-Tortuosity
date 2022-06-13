@@ -1,0 +1,12 @@
+legenda{1}='\tau';
+legenda{2}='L_c/L_\chi-1';
+legenda{3}='tc';
+legenda{4}='tsc';
+legenda{5}='tc/L_c';
+legenda{6}='tsc/L_c';
+legenda{7}='tc/L_\chi';
+legenda{8}='tsc/L_\chi';
+legenda{9}='MAC';
+legenda{10}='TN';
+legenda{11}='ICN';
+legenda{12}='Patasius';
