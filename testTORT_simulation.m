@@ -5,7 +5,7 @@
 %% IEEE Trans Med Imaging, 2008 Mar;27(3):310-9. doi: 10.1109/TMI.2007.904657.
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-addpath('./RET_functions')
+addpath('./RET_Tort')
 
 %% Setup legendas for the figures
 legenda{1}='\tau';
