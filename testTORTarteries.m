@@ -1,3 +1,13 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Evaluate a sample of 30 retinal arteries with manually identifies centerlines, 
+%% calcuating their tortuosity according to the various metrics described in:
+%% E. Grisan, M. Foracchia and A. Ruggeri, 
+%% "A novel method for the automatic grading of retinal vessel tortuosity", 
+%% IEEE Trans Med Imaging, 2008 Mar;27(3):310-9. doi: 10.1109/TMI.2007.904657.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+addpath('./RET_Tort')
+
 load('./data/Artery_Data.mat')
 
 %% Match name ordering in the vessel structure with name ordering for manual grading
